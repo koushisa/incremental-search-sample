@@ -12,8 +12,8 @@
   },
   "devDependencies": {
     "@babel/polyfill": "^7.0.0-beta.53",
-    "@vue/cli-plugin-babel": "^3.3.0",
-    "@vue/cli-service": "^3.3.0",
+    "@vue/cli-plugin-babel": "^3.11.0",
+    "@vue/cli-service": "^5.0.8",
     "axios": "^0.18.0",
     "lodash": "^4.17.11",
     "node-sass": "^4.9.0",
